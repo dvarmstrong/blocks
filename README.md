@@ -1,3 +1,3 @@
 # blocks
-Flex our blocks practice 
+Flex our blocks practice.
 Practice for using display-flex in CSS. 
